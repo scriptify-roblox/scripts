@@ -14,6 +14,11 @@ const cards = [
         title: "Untitled Boxing Game OP Script (PASTEBIN)",
         link: "https://workink.net/1R8U/m5zu9dps"
     },
+    {
+        image: "assets/template_roblox (2).png",
+        title: "Autofarm Cash OP Script (PASTEBIN)",
+        link: "https://workink.net/1R8U/m5zy8jg9"
+    },
 ]
 
 function renderCards() {
