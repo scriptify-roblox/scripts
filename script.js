@@ -9,6 +9,11 @@ const cards = [
         title: "Blue Lock Rivals OP Script (PASTEBIN)",
         link: "https://workink.net/1R8U/m5zq3cgk"
     },
+    {
+        image: "assets/untitled-boxing-game-feature.png",
+        title: "Untitled Boxing Game OP Script (PASTEBIN)",
+        link: "https://workink.net/1R8U/m5zu9dps"
+    },
 ]
 
 function renderCards() {
