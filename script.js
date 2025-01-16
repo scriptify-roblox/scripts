@@ -1,8 +1,13 @@
 const cards = [
     {
-        image: "assets/Limited Marble Race.png",
-        title: "Limited Marble Race OP Script (PASTEBIN)",
-        link: "#"
+        image: "assets/toh.png",
+        title: "Tower Of Hell OP Script (PASTEBIN)",
+        link: "https://work.ink/1R8U/m5zgwbur"
+    },
+    {
+        image: "assets/blue-lock-rivals-codes.png",
+        title: "Blue Lock Rivals OP Script (PASTEBIN)",
+        link: "https://workink.net/1R8U/m5zq3cgk"
     },
 ]
 
