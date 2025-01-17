@@ -24,6 +24,11 @@ const cards = [
         title: "Fisch OP Script (PASTEBIN)",
         link: "https://work.ink/1R8U/m60suees"
     },
+    {
+        image: "assets/bladeball.png",
+        title: "Blade Ball OP Script (PASTEBIN)",
+        link: "https://workink.net/1R8U/m60vw9ny"
+    },
 ]
 
 function renderCards() {
