@@ -19,6 +19,11 @@ const cards = [
         title: "Autofarm Cash OP Script (PASTEBIN)",
         link: "https://workink.net/1R8U/m5zy8jg9"
     },
+    {
+        image: "assets/image (2).png",
+        title: "Fisch OP Script (PASTEBIN)",
+        link: "https://work.ink/1R8U/m60suees"
+    },
 ]
 
 function renderCards() {
