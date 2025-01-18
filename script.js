@@ -2,32 +2,32 @@ const cards = [
     {
         image: "assets/toh.png",
         title: "Tower Of Hell OP Script (PASTEBIN)",
-        link: "https://work.ink/1R8U/m5zgwbur"
+        link: "https://lootdest.org/s?zZnAfK2s"
     },
     {
         image: "assets/blue-lock-rivals-codes.png",
         title: "Blue Lock Rivals OP Script (PASTEBIN)",
-        link: "https://workink.net/1R8U/m5zq3cgk"
+        link: "https://loot-link.com/s?Sx3t7Z8b"
     },
     {
         image: "assets/image (1).png",
         title: "Untitled Boxing Game OP Script (PASTEBIN)",
-        link: "https://workink.net/1R8U/m5zu9dps"
+        link: "https://loot-link.com/s?MMrM70bT"
     },
     {
         image: "assets/template_roblox (2).png",
-        title: "Autofarm Cash OP Script (PASTEBIN)",
-        link: "https://workink.net/1R8U/m5zy8jg9"
+        title: "Blox Fruits Autofarm Cash OP Script (PASTEBIN)",
+        link: "https://loot-link.com/s?DBTUMlFg"
     },
     {
         image: "assets/image (2).png",
         title: "Fisch OP Script (PASTEBIN)",
-        link: "https://work.ink/1R8U/m60suees"
+        link: "https://loot-link.com/s?93KjCOoE"
     },
     {
         image: "assets/bladeball.png",
         title: "Blade Ball OP Script (PASTEBIN)",
-        link: "https://workink.net/1R8U/m60vw9ny"
+        link: "https://loot-link.com/s?47cKfOLA"
     },
 ]
 
