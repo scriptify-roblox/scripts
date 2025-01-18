@@ -5,7 +5,7 @@ const cards = [
         link: "https://lootdest.org/s?zZnAfK2s"
     },
     {
-        image: "assets/blue-lock-rivals-codes.png",
+        image: "assets/bluelock_temp.png",
         title: "Blue Lock Rivals OP Script (PASTEBIN)",
         link: "https://loot-link.com/s?Sx3t7Z8b"
     },
