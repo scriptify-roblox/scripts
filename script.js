@@ -29,6 +29,36 @@ const cards = [
         title: "Blade Ball OP Script (PASTEBIN)",
         link: "https://loot-link.com/s?47cKfOLA"
     },
+    {
+        image: "assets/mm2.png",
+        title: "Murder Mystery OP Script (PASTEBIN)",
+        link: "https://lootdest.org/s?2IBcO5GB"
+    },
+    {
+        image: "assets/ras.png",
+        title: "Reborn As Swordsman OP Script (PASTEBIN)",
+        link: "https://lootdest.org/s?429ukKTw"
+    },
+    {
+        image: "assets/aws.png",
+        title: "Arm Wrestling OP Script (PASTEBIN)",
+        link: "https://loot-link.com/s?GRAbPjnI"
+    },
+    {
+        image: "assets/ct.png",
+        title: "Car Training OP Script (PASTEBIN)",
+        link: "https://loot-link.com/s?rh5E9pz4"
+    },
+    {
+        image: "assets/ml.png",
+        title: "Muscle Legends OP Script (PASTEBIN)",
+        link: "https://loot-link.com/s?gtPrcrYb"
+    },
+    {
+        image: "assets/lootify4.png",
+        title: "Lootify OP Script (PASTEBIN)",
+        link: "https://loot-link.com/s?QSd8dGxH"
+    },
 ]
 
 function renderCards() {
